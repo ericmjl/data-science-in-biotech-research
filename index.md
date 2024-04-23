@@ -110,6 +110,21 @@ hackmd.io/<span style="color: #6495ED">@ericmjl</span>/<span style="color: #40E0
 - Out of scope?
 
 ----
+<!-- .slide: data-auto-animate -->
+
+> Biotech/pharma operates on the holy trinity of indication-target-molecule
+
+- Indication: disease
+- Target: hypothesized gene/protein/RNA/cell/tissue that, if perturbed, will reverse the course of disease
+- Molecule: the entity that we introduce to perturb the target.
+
+----
+
+## Therapeutic hypothesis
+
+> {{ molecule }} will hit {{ target }} to reverse the course of {{ indication }}
+
+----
 
 > What methodologies?
 
