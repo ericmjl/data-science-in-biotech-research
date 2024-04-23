@@ -14,7 +14,7 @@ Moderna
 
 ---
 
-## About me
+## 📝 About me
 
 > "Sr. Principal Data Scientist, DSAI (Research) @  Moderna"
 
@@ -24,13 +24,13 @@ Moderna
 
 ---
 
-## Today
+## 📅 Today
 
 > Explore what it takes to build a successful data science team in a biotech/pharma research organization.
 
 ---
 
-## Scope
+## 🔍 Scope
 
 - Data science team
 - Biotech/pharma
@@ -38,14 +38,14 @@ Moderna
 
 ---
 
-## Format
+## 🎨 Format
 
 - Four themes
 - Disussion
 
 ---
 
-## Format (cont'd)
+## 🌀 Format (cont'd)
 
 - Preface <!-- .element: class="fragment" -->
 - Small group discussion <!-- .element: class="fragment" -->
@@ -53,7 +53,7 @@ Moderna
 
 ---
 
-## Exchange of ideas
+## 💡 Exchange of ideas
 
 - Discussion over lecturing <!-- .element: class="fragment" -->
 - Pragmatism over ideology <!-- .element: class="fragment" -->
@@ -62,26 +62,26 @@ Moderna
 
 ---
 
-## I am here to engage in two-way learning with everyone
+## 🤝 I am here to engage in two-way learning with everyone
 
 ---
-## Agenda
+## 📋 Agenda
 
 1. Mission <!-- .element: class="fragment" -->
-2. Value delivery <!-- .element: class="fragment" -->
-3. Problem classes <!-- .element: class="fragment" -->
+2. Problem classes <!-- .element: class="fragment" -->
+3. Value delivery <!-- .element: class="fragment" -->
 4. Challenges <!-- .element: class="fragment" -->
 
 ---
 
-## Notes
+## 📒 Notes
 
 hackmd.io/<span style="color: #6495ED">@ericmjl</span>/<span style="color: #40E0D0">ds-biotech-org</span>
 
 ---
 <!-- .slide: data-auto-animate -->
 
-## Mission
+## 🎯 Mission
 
 > Why does your team of data scientists exist?
 
@@ -97,7 +97,7 @@ hackmd.io/<span style="color: #6495ED">@ericmjl</span>/<span style="color: #40E0
 ---
 <!-- .slide: data-auto-animate -->
 
-## Problem classes
+## ❓ Problem classes
 
 > What problems does your team solve?
 
@@ -120,7 +120,7 @@ hackmd.io/<span style="color: #6495ED">@ericmjl</span>/<span style="color: #40E0
 
 ----
 
-## Therapeutic hypothesis
+## 💊 Therapeutic hypothesis
 
 > {{ molecule }} will hit {{ target }} to reverse the course of {{ indication }}
 
@@ -145,7 +145,7 @@ hackmd.io/<span style="color: #6495ED">@ericmjl</span>/<span style="color: #40E0
 ---
 <!-- .slide: data-auto-animate -->
 
-## Value delivery
+## 🌐 Value delivery
 
 > What is the value of the problems that your team solves?
 
@@ -172,7 +172,7 @@ What other questions would you ask? <!-- .element: class="fragment" -->
 
 ---
 
-## Challenges
+## 🚧 Challenges
 
 > What challenges will one face when building out a new data science team within a new biotech's research organization?
 
