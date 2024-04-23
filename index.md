@@ -48,8 +48,8 @@ Moderna
 ## Format (cont'd)
 
 - Preface <!-- .element: class="fragment" -->
-- Preface <!-- .element: class="fragment" -->
--
+- Small group discussion <!-- .element: class="fragment" -->
+- Larger group discussion <!-- .element: class="fragment" -->
 
 ---
 
