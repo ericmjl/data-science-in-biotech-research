@@ -40,16 +40,23 @@ Moderna
 
 ## 🎨 Format
 
-- Four themes
-- Disussion
+```python
+themes = ["mission", "problem classes", "value delivery", "challenges"]
+
+for theme in themes:
+    discuss()
+```
 
 ---
 
 ## 🌀 Format (cont'd)
 
-- Preface <!-- .element: class="fragment" -->
-- Small group discussion <!-- .element: class="fragment" -->
-- Larger group discussion <!-- .element: class="fragment" -->
+```python
+def discuss():
+    preface()
+    small_group_discussion()
+    large_group_discussion()
+```
 
 ---
 
@@ -100,6 +107,15 @@ hackmd.io/<span style="color: #6495ED">@ericmjl</span>/<span style="color: #40E0
 
 ## ❓ Problem classes
 
+> Biotech/pharma operates on the holy trinity of indication-target-molecule
+
+- Indication: disease
+- Target: hypothesized gene/protein/RNA/cell/tissue that, if perturbed, will reverse the course of disease
+- Molecule: the entity that we introduce to perturb the target.
+
+---
+<!-- .slide: data-auto-animate -->
+
 > What problems does your team solve?
 
 ----
@@ -109,15 +125,6 @@ hackmd.io/<span style="color: #6495ED">@ericmjl</span>/<span style="color: #40E0
 
 - In scope?
 - Out of scope?
-
-----
-<!-- .slide: data-auto-animate -->
-
-> Biotech/pharma operates on the holy trinity of indication-target-molecule
-
-- Indication: disease
-- Target: hypothesized gene/protein/RNA/cell/tissue that, if perturbed, will reverse the course of disease
-- Molecule: the entity that we introduce to perturb the target.
 
 ----
 
