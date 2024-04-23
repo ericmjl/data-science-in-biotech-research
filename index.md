@@ -65,7 +65,6 @@ Moderna
 ## I am here to engage in two-way learning with everyone
 
 ---
-<!-- .slide: data-auto-animate -->
 ## Agenda
 
 1. Mission <!-- .element: class="fragment" -->
@@ -86,8 +85,6 @@ hackmd.io/<span style="color: #6495ED">@ericmjl</span>/<span style="color: #40E0
 
 > Why does your team of data scientists exist?
 
-
-
 ----
 
 <!-- .slide: data-auto-animate -->
@@ -98,35 +95,103 @@ hackmd.io/<span style="color: #6495ED">@ericmjl</span>/<span style="color: #40E0
 - North star? <!-- .element: class="fragment" -->
 
 ---
+<!-- .slide: data-auto-animate -->
 
 ## Problem classes
 
-- What are in-scope/out-of-scope problems for your team? <!-- .element: class="fragment" -->
-- What methodologies? <!-- .element: class="fragment" -->
+> What problems does your team solve?
 
----
+----
+<!-- .slide: data-auto-animate -->
 
-## Matrix
+> What problems does your team solve?
 
+- In scope?
+- Out of scope?
+
+----
+
+> What methodologies?
+
+----
+<!-- .slide: data-auto-animate -->
 <span style="color: #6495ED">domain</span> $\times$ <span style="color: #40E0D0">methodology</span>
 
----
+----
+<!-- .slide: data-auto-animate -->
+<span style="color: #6495ED">domain</span> $\times$ <span style="color: #40E0D0">methodology</span>
 
+|   | <span style="color: #6495ED">mRNA</span> | <span style="color: #6495ED">Proteins</span> | <span style="color: #6495ED">LNPs</span> |
+|---|------|----------|------|
+| <span style="color: #40E0D0">AI library design</span> | ✅ | ✅ | ✅ |
+| <span style="color: #40E0D0">Computer vision</span> | ✅ |❌ | ✅ |
+| <span style="color: #40E0D0">Probabilistic models + custom algorithms</span> | ✅ | ✅ | ✅ |
+
+---
+<!-- .slide: data-auto-animate -->
 
 ## Value delivery
 
-> What valuable problems does your team solve?
+> What is the value of the problems that your team solves?
 
+----
+<!-- .slide: data-auto-animate -->
+
+> What is the value of the problems that your team solves?
+
+- Return on investment (ROI)? <!-- .element: class="fragment" -->
+- Priority level within the company? <!-- .element: class="fragment" -->
+
+What examples do you have, to the extent that it can be revealed? <!-- .element: class="fragment" -->
+
+----
+<!-- .slide: data-auto-animate -->
+
+> What frameworks can we use to estimate the ROI of our work?
+
+- Time saved by laboratory scientists vs. time needed to build solution <!-- .element: class="fragment" -->
+- Cost of experiments that would otherwise needed to be done <!-- .element: class="fragment" -->
+- Replacement of vendor software costs <!-- .element: class="fragment" -->
+
+What other questions would you ask? <!-- .element: class="fragment" -->
 
 ---
 
-
 ## Challenges
 
-- Research process stability
-- Skillsets: necessary vs expected
-- Time to value delivery
-- Demonstrating value in revenue-comsuming org
+> What challenges will one face when building out a new data science team within a new biotech's research organization?
+
+----
+
+> Laboratory research processes are unstable, generating non i.i.d. data.
+
+Examples:
+
+- Condition scouting in antibody evolution.  <!-- .element: class="fragment" -->
+- Cell type changes in protein efficacy assays.  <!-- .element: class="fragment" -->
+- Change in vendor supplier for molecules.  <!-- .element: class="fragment" -->
+
+How do we overcome this challenge?  <!-- .element: class="fragment" -->
+
+----
+
+> Do we need a team of unicorns? Or do we need a team to cover the unicorn skillsets?
+
+- Scientific domain knowledge
+- Mathematical modelling skill
+- Software development skills
+- Communication skills
+- People skills
+
+Reference [essay on hiring](https://ericmjl.github.io/essays-on-data-science/people-skills/hiring/).
+
+----
+
+> Time is ticking; how do we demonstrate value early on?
+
+----
+
+> Research is a revenue-consuming organization that takes years to deliver a new product. How do we demonstrate that there is value delivered by the data science team in the interim?
 
 ---
 
